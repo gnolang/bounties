@@ -15,7 +15,7 @@ PAYMENT: pending, will be updated here when done.
  * proposed rewards:
    - ICF 10 points
    - Sunny deferred to the ICF
-   - LL-Cosmo 1 point
+   - LL-Cosmo 1 point - osmo1cnskgpm8pasf628kzqs5vqlk5qk0y624lkucj4
    - Nostradamus411 1 point - osmo10jm8fvdyqlj78w0j5nawc76wsn4pqmdxj4q5zl
    - ajofuk 1 point - osmo1hdehvekr272dgs33u7sz5vxwc205p7f94cqssk
    - 1000 OSMO * x/13
