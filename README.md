@@ -4,11 +4,11 @@ We’ve provided a detailed guide on how to navigate the gno.land bounty ecosyst
 
 We have four different categories of bounties, and different bounty sizes linked to a monetary reward. Please take the time to read this information before starting to work on a bounty.
 
-### **Meta Bounties**
+### Meta Bounties
 
 **Description:**
 
-Meta bounties focus on creating several impactful and reusable examples, dApps, and packages for Gno. Here is an initial example of this bounty [type](https://github.com/gnolang/gno/issues/3084)
+Meta bounties focus on creating several impactful and reusable examples, dApps, and packages for Gno. You can find an example of this bounty type [here](https://github.com/gnolang/gno/issues/3084).
 
 These contributions should be:
 
@@ -19,11 +19,11 @@ These contributions should be:
 
 Meta bounties range in value from $500 to $2,000, depending on the quality, complexity, and potential impact of the contribution. While the issue for the bounty is open, all submissions are entitled to the compensation with approval from the core team.
 
-### **Scoped Bounties**
+### Scoped Bounties
 
 **Description:**
 
-Scoped bounties are well-defined tasks with a detailed scope and clear expected outcomes. These bounties typically involve solving specific problems or implementing predefined features. An example of this bounty category is the [gno test -cover](https://github.com/gnolang/gno/issues/2908) bounties.
+Scoped bounties are well-defined tasks with a detailed scope and clear expected outcomes. These bounties typically involve solving specific problems or implementing predefined features. An example from this bounty category is the [`gno test -cover` bounty](https://github.com/gnolang/gno/issues/2908) bounties.
 
 **Key Points:**
 
@@ -32,11 +32,11 @@ Scoped bounties are well-defined tasks with a detailed scope and clear expected 
 
 This category is straightforward and ideal for developers who prefer structured tasks with minimal ambiguity.
 
-### **Bounties for Competing Implementations**
+### Bounties for Competing Implementations
 
 **Description:**
 
-This category aims to explore different approaches at solving a problem, in the form of multiple competing implementations. These are often core re-usable packages within gno.land, which can serve as a useful tool for the larger ecosystem. An example of this bounty category is the [UI Markdown templating](https://github.com/gnolang/gno/issues/2753) bounty.
+This category aims to explore different approaches at solving a problem, in the form of multiple competing implementations. These are often core re-usable packages within gno.land, which can serve as a useful tool for the larger ecosystem. An example from this bounty category is the [Markdown Library/Framework bounty](https://github.com/gnolang/gno/issues/2753).
 
 **Key Points:**
 
@@ -47,11 +47,11 @@ This category aims to explore different approaches at solving a problem, in the 
 
 Monetary values for these bounties vary and are determined by the scope and potential impact of the feature.
 
-### **Bounties for Architectural Solutions**
+### Bounties for Architectural Solutions
 
 **Description:**
 
-These bounties focus on solving architectural challenges through creative proposals. The aim is to gather multiple innovative ideas and combine the best aspects into a single comprehensive specification - and after it’s approved, the implementation into code. An example of this type of bounty is the “[anti-squatting system](https://github.com/gnolang/gno/issues/2727)”.
+These bounties focus on solving architectural challenges through creative proposals. The aim is to gather multiple innovative ideas and combine the best aspects into a single comprehensive specification - and after it’s approved, the implementation into code. An example from this bounty category is the [anti-squatting system](https://github.com/gnolang/gno/issues/2727) bounty.
 
 **Key Points:**
 
@@ -62,7 +62,7 @@ These bounties focus on solving architectural challenges through creative propos
 Due to the nature of these bounties, payouts are flexible and distributed based on contribution quality and input of each proposal in the final solution
 
 
-## **Bounty sizes**
+## Bounty sizes
 
 Each bounty is associated with a size, to which corresponds the maximum compensation for the work involved on the bounty. A bounty size may under rare occasion be revisited to a bigger or smaller size; hence why it's important to talk about your proposed solution with the core team ahead of time.
 
@@ -81,7 +81,7 @@ The value of the bounty, aside from the material completion of the task, conside
 | 3XL          | $32000                |
 
 
-## **Guide to Participating**
+##  A Guide to Participating
 
 - Identify the bounty you want to work on, and join in the discussion on the issue for anything that is unclear; or where you want to more clearly define the work to be done. At this stage, you can also start working on an initial implementation in your local environment.
 - Once you have spent time on the code related to the bounty, we recommend submitting a 'draft' PR as soon as possible.
