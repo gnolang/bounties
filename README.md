@@ -17,7 +17,7 @@ These contributions should be:
 - Concise and Well-Documented: Clear source code with thorough documentation, serving as onboarding material and primary references for developers exploring Gno’s features and applications.
 - Specific: instead of tackling a wide array of functionality, the code should be focused on the objective and attempt to re-use as much as possible existing packages.
 
-Meta bounties range in value from $500 to $2,000, depending on the quality, complexity, and potential impact of the contribution. While the issue for the bounty is open, all submissions are entitled to the compensation with approval from the core team.
+Meta bounties range in value from $500 to $2,000, depending on the quality, complexity, and potential impact of the contribution. While the issue for the bounty is open, all submissions are entitled to compensation up to the bounty value, with approval from the core team.
 
 ### Scoped Bounties
 
