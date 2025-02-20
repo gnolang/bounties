@@ -1,6 +1,6 @@
 # gno.land Bounty Program 
 
-We’ve provided a detailed guide on how to navigate the gno.land bounty ecosystem, and recommendations on how to participate and increase your chances of receiving the bounty. You can head to the main [gno repo](https://github.com/gnolang/gno) and use the label 'bounty' to find all available bounties. 
+We’ve provided a detailed guide on how to navigate the gno.land bounty ecosystem, and recommendations on how to participate and increase your chances of receiving the bounty. You can head to the main [gno repo](https://github.com/gnolang/gno) and use the [label 'bounty'](https://github.com/gnolang/gno/issues?q=is%3Aissue%20is%3Aopen%20label%3Abounty%20) to find all available bounties. 
 
 We have four different categories of bounties, and different bounty sizes linked to a monetary reward. Please take the time to read this information before starting to work on a bounty.
 
