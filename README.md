@@ -70,15 +70,15 @@ In some cases, the work associated with a bounty may be outstanding. When that h
 
 The value of the bounty, aside from the material completion of the task, considers the involved time in managing the created pull request and iterating on feedback.
 
-| t-shirt size | expected compensation |
-|--------------|-----------------------|
-| XS           | $500                  |
-| S            | $1000                 |
-| M            | $2000                 |
-| L            | $4000                 |
-| XL           | $8000                 |
-| XXL          | $16000                |
-| 3XL          | $32000                |
+| t-shirt size | compensation |
+|--------------|--------------|
+| XS           | up to $500   |
+| S            | up to $1000  |
+| M            | up to $2000  |
+| L            | up to $4000  |
+| XL           | up to $8000  |
+| XXL          | up to $16000 |
+| 3XL          | up to $32000 |
 
 
 ##  A Guide to Participating
